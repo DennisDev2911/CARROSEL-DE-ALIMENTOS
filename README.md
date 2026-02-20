@@ -2,6 +2,10 @@
   CARROSSEL SAUDÁVEL
 </h1>
 
+<p align="center">
+  <img src=".github/preview.png" width="100%" />
+</p>
+
 ## 💻 Projeto
 
 Este projeto é um tutorial que ensina a como criar um projeto de **CARROSSEL SAUDÁVEL** ao usar _HTML_ _CSS_ e _JAVASCRIPT_.
@@ -15,7 +19,11 @@ Este projeto é um tutorial que ensina a como criar um projeto de **CARROSSEL SA
 ## 📔 Conhecimentos abordados
 
 - [x] Uso semântico do HTML
+- [x] Variáveis do css no `:root`
+- [x] Animações
+- [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
+- [x] Uso do método `:not` do css
 
 
 ## 📝 Tema de casa
@@ -24,6 +32,5 @@ Este projeto é um tutorial que ensina a como criar um projeto de **CARROSSEL SA
 - [ ] Adicionar efeito de hover nos botões
 
 ## 📺 Tutorial no Youtube
-<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
 <img src="https://github.com/DennisDev2911/CARROSEL-ALIMENTOS/blob/main/tutorial-smoothi-bowl/youtube-smoothi-bowl/assets/CARROSSEL%20SAUD%C3%81VEL.JPG?raw=true" />
