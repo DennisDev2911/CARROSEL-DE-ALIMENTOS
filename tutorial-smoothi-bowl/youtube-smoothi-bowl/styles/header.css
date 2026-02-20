@@ -22,4 +22,11 @@ header nav a {
     text-decoration: none;
     font-weight: 300;
     letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+header nav a:hover {
+    color: #ff0000;
+    font-weight: bold;
+    
 }
